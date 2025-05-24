@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://kmyakts4l64t"]
+
+[node name="Head" type="Node3D"]
+
+[node name="Camera3D" type="Camera3D" parent="."]
+
+[node name="SpotLight3D" type="SpotLight3D" parent="Camera3D"]
+light_energy = 50.0
+spot_range = 396.928

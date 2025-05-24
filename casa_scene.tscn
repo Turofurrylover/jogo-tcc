@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://gieco4j41s2t"]
+
+[ext_resource type="PackedScene" uid="uid://dm8fpnu7tnmdl" path="res://blender assets/casa/destroyed_house.glb" id="1_36dp3"]
+
+[node name="Sketchfab_Scene" instance=ExtResource("1_36dp3")]
+transform = Transform3D(0.018, 0, 0, 0, 0.016, 0, 0, 0, 0.014, 0, 0, 0)
